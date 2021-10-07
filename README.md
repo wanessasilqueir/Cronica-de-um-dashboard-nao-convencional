@@ -1,5 +1,6 @@
-# Projetos-de-Power-BI
-Opa, aqui abaixo deixei alguns dos dashs que criei com o Power BI! Eles também estão disponíveis no meu LinkedIn!
+# Crônica de um dashboard não convencional
+Opa, aqui abaixo deixei a história de como consegui o meu primeiro estágio na área de dados e o link pra acessá-lo 
+está no finalzinho, a discussão dos resultados você encontra no meu LinkedIn!
 
 Capítulo 1 - Ativação do modo Sherlock Holmes
 
