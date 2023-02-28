@@ -1,6 +1,6 @@
 # Crônica de um dashboard não convencional
-Opa, aqui abaixo deixei a história de como consegui minha primeira vaga na área de dados e o link pra acessá-lo 
-está no finalzinho, a discussão dos resultados você encontra no meu LinkedIn!
+Com essa análise eu garanti a minha primeira vaga na área de dados. O link para acessar o dashboard
+está no finalzinho da página. A discussão dos resultados (com capturas dos resultados no dash) você encontra no meu LinkedIn!
 
 Capítulo 1 - Ativação do modo Sherlock Holmes
 
@@ -9,15 +9,16 @@ me encontrei na tarefa montar o quebra-cabeça que iria atender a essa demanda.
 
 Ok, mas por onde começar? Coletando as perguntas do meu cliente, é claro!
 
-Assim, as perguntas do meu cliente eram:
+Assim, as perguntas eram:
 
-Qual o total de vendas, quantidade e lucro do ano de 2015?
-Qual o aspecto das minhas vendas diárias?
-Quais os 5 países com maiores lucros e com menores lucros? Precisamos de detalhes da venda, quantidade e lucro.
-Qual o segmento e a categoria com maior lucro? Precisamos de detalhes da venda, quantidade e lucro.
-Quais os 10 de produtos com maiores e os com as 10 menores vendas? Precisamos de detalhes da venda, quantidade e lucro
+- Qual o total de vendas, quantidade e lucro do ano de 2015?
+- Qual o aspecto das minhas vendas diárias?
+- Quais os 5 países com maiores lucros e com menores lucros? Precisamos de detalhes da venda, quantidade e lucro.
+- Qual o segmento e a categoria com maior lucro? Precisamos de detalhes da venda, quantidade e lucro.
+- Quais os 10 de produtos com maiores e os com as 10 menores vendas? Precisamos de detalhes da venda, quantidade e lucro
+
 Colocado em evidência os questionamentos que logo logo seriam solucionados, eu abri o material principal, a fonte da solução 
-(esperançosamente) para os questionamentos do cliente: a base de dados. 
+para os questionamentos do cliente: a base de dados. 
 
 
 
@@ -56,3 +57,4 @@ Depois de todos os percursos feitos para encontrar as tão esperadas respostas p
 era hora, finalmente, delas aparecerem... então, vamos de encontro a elas!
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiY2Q4YzJhYTItMjY0Ny00YWRlLWEwNjgtNWE2YzQ2OTUyYThiIiwidCI6IjA1NWQzZGE0LTk0YmMtNGZjOS1iODdhLTcwMGZiZjg0MzljNiJ9
+Descrição dos achados você encontra em maiores detalhes neste artigo do LinkedIn: https://www.linkedin.com/pulse/cr%C3%B4nica-de-um-dashboard-n%C3%A3o-convencional-power-bi-wanessa-cerqueira/
